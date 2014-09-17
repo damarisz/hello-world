@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Getting Started with Github
+Welcome to project Hello-World
